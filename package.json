@@ -1,0 +1,20 @@
+{
+    "name": "twilightzone-monologues",
+    "version": "0.0.0",
+    "description": "Complete set of Rod Serling opening and closing monologues from the original Twilight Zone.",
+    "keywords": [
+        "Twilight zone",
+        "Twilightzone",
+        "Rod Serling",
+        "monologues"
+    ],
+    "author": "Matt Bierner",
+
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mattbierner/twilightzone-monologues.git"
+    },
+    
+    "main": "index.js",
+    "dependencies": {}
+}
