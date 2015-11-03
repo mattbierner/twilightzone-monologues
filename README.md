@@ -3,7 +3,7 @@
 Complete set of Rod Serling opening and closing monologues from the original Twilight Zone TV show.
 
 * Json data in `data.json`.
-* Available for npm with `$ npm-install twilightzone-monologues`.
+* [Available on npm](https://www.npmjs.com/package/twilightzone-monologues): `$ npm-install twilightzone-monologues`.
 
 ### Format
 `data.json` is an ordered list of episodes. Each episode has the following data:
